@@ -1,0 +1,7 @@
+{
+"name": "マイWebアプリ",
+"short_name": "マイアプリ",
+"start_url": "./",
+"display": "standalone",
+"theme_color": "#2196f3"
+}
